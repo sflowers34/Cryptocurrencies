@@ -7,27 +7,27 @@ There were four deliverables for this project. Examples of the output from each 
 
 1: Preprocessing the Data for PCA (which cryptocurrencies are trading on the market)
 
-![](images//D1.jpg)
+![](Images//D1.jpg)
 
 2: Reducing Data Dimensions Using PCA 
 
 The following image shows the dataframe output: 
 
-![](images//D2.jpg)
+![](Images//D2.jpg)
 
 3: Clustering Cryptocurrencies Using K-means 
 
 Image of resulting Elbow curve for K=4:
 
-![](images//elbow.jpg)
+![](Images//elbow.jpg)
 
 4: Visualizing Cryptocurrencies Results
 
 Image of 3D scatter plot showing the clusters:
 
-![](images//3D.jpg)
+![](Images//3D.jpg)
 
-![](images//plot.jpg)
+![](Images//plot.jpg)
 
 #  Summary
 
